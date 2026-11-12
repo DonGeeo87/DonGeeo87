@@ -154,7 +154,7 @@ def stats(user):
     cw = (w - gap * 3) // 4
     cards = [
         (num(contrib), "CONTRIBUCIONES 12M", GREEN),
-        (num(repos["totalCount"]), "REPOS PUBLICOS", CYAN),
+        (num(repos["totalCount"]), "REPOS PROPIOS", CYAN),
         (num(stars), "ESTRELLAS", GREEN),
         (num(followers), "SEGUIDORES", CYAN),
     ]
