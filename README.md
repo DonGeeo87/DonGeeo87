@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/hero?username=DonGeeo87&theme=midnight&mode=dark" alt="Giorgio Interdonato, Código Guerrero Dev" width="100%" />
+<img src="assets/hero.svg" alt="Giorgio Interdonato · Código Guerrero Dev" width="100%" />
 
 **Construyo productos digitales para negocios chicos.** Vengo de la comunicación, no de la informática: aprendí a programar resolviendo problemas reales de pymes y llevo desde entonces un estudio con sitios vivos atendiendo clientes.
 
@@ -8,7 +8,7 @@
 
 </div>
 
----
+<img src="assets/stats.svg" alt="Contribuciones, repositorios, estrellas y seguidores" width="100%" />
 
 ## Qué hago
 
@@ -29,9 +29,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-<img src="https://www.gitskins.com/api/section/stats?username=DonGeeo87&theme=midnight" alt="Estadísticas de GitHub de DonGeeo87" width="100%" />
-
-<img src="https://www.gitskins.com/api/section/stack?username=DonGeeo87&theme=midnight" alt="Lenguajes más usados en mis repositorios" width="100%" />
+<img src="assets/stack.svg" alt="Lenguajes por volumen de código en mis repositorios" width="100%" />
 
 ## Lo que estoy construyendo
 
@@ -68,8 +66,10 @@ Comunicación audiovisual y administración de personas en Duoc UC, diez años g
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=DonGeeo87&theme=midnight&style=snake" alt="Gráfico de contribuciones animado" width="100%" />
+<img src="assets/activity.svg" alt="Actividad de los últimos 12 meses" width="100%" />
 
 <sub>¿Tienes un proyecto en mente? Hablemos en <a href="https://codigoguerrero.dev">codigoguerrero.dev</a>.</sub>
 
 </div>
+
+<!-- Los gráficos son SVG generados desde la API de GitHub con scripts/generate.py y se refrescan solos cada día vía GitHub Actions. Sin servicios de terceros ni temas de pago. -->

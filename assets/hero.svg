@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="300" viewBox="0 0 1180 300" fill="none" role="img" aria-label="DonGeeo87 · Código Guerrero Dev">
+<title>DonGeeo87 · Código Guerrero Dev</title>
+<rect width="1180" height="300" rx="16" fill="#0B0C0E"/>
+<rect x="0.5" y="0.5" width="1179" height="299" rx="15.5" stroke="#23272D"/>
+<g stroke="#23272D" stroke-width="1" opacity="0.55">
+<path d="M40 0V300"/>
+<path d="M100 0V300"/>
+<path d="M160 0V300"/>
+<path d="M220 0V300"/>
+<path d="M280 0V300"/>
+<path d="M340 0V300"/>
+<path d="M400 0V300"/>
+<path d="M460 0V300"/>
+<path d="M520 0V300"/>
+<path d="M580 0V300"/>
+<path d="M640 0V300"/>
+<path d="M700 0V300"/>
+<path d="M760 0V300"/>
+<path d="M820 0V300"/>
+<path d="M880 0V300"/>
+<path d="M940 0V300"/>
+<path d="M1000 0V300"/>
+<path d="M1060 0V300"/>
+<path d="M1120 0V300"/>
+<path d="M0 40H1180"/>
+<path d="M0 100H1180"/>
+<path d="M0 160H1180"/>
+<path d="M0 220H1180"/>
+<path d="M0 280H1180"/>
+</g>
+<rect x="0" y="0" width="6" height="300" rx="3" fill="#B8F35A"/>
+<text x="56" y="86" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="14" letter-spacing="3" fill="#B8F35A">CODIGO GUERRERO DEV</text>
+<text x="56" y="150" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" fill="#F7F8F8" letter-spacing="-1.5">Giorgio Interdonato</text>
+<text x="56" y="190" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="500" fill="#8A8F98">Construyo productos digitales para negocios chicos.</text>
+<text x="56" y="228" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="400" fill="#8A8F98">Web full-stack · Automatizacion con IA · Apps Android</text>
+<rect x="56" y="248" width="126" height="28" rx="14" fill="#121417" stroke="#23272D"/>
+<circle cx="70" cy="262" r="4" fill="#B8F35A"/>
+<text x="82" y="267" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#F7F8F8">Limache, Chile</text>
+<rect x="192" y="248" width="158" height="28" rx="14" fill="#121417" stroke="#23272D"/>
+<circle cx="206" cy="262" r="4" fill="#39BDF8"/>
+<text x="218" y="267" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#F7F8F8">codigoguerrero.dev</text>
+<rect x="360" y="248" width="166" height="28" rx="14" fill="#121417" stroke="#23272D"/>
+<circle cx="374" cy="262" r="4" fill="#B8F35A"/>
+<text x="386" y="267" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#F7F8F8">abierto a proyectos</text>
+</svg>

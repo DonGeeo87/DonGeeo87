@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="300" viewBox="0 0 1180 300" fill="none" role="img" aria-label="Lenguajes por volumen de código">
+<title>Lenguajes por volumen de código</title>
+<rect width="1180" height="300" rx="16" fill="#0B0C0E"/>
+<rect x="0.5" y="0.5" width="1179" height="299" rx="15.5" stroke="#23272D"/>
+<text x="32" y="50" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" letter-spacing="3" fill="#B8F35A">STACK POR VOLUMEN DE CODIGO</text>
+<text x="32" y="74" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8A8F98">Peso de cada lenguaje sumando el tamaño real de mis repositorios públicos</text>
+<text x="32" y="123" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F7F8F8">Kotlin</text>
+<rect x="200" y="108" width="860" height="20" rx="10" fill="#1A1D20"/>
+<rect x="200" y="108" width="332" height="20" rx="10" fill="#B8F35A" opacity="0.95"/>
+<text x="1148" y="123" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" fill="#8A8F98">38.6%</text>
+<text x="32" y="155" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F7F8F8">JavaScript</text>
+<rect x="200" y="140" width="860" height="20" rx="10" fill="#1A1D20"/>
+<rect x="200" y="140" width="183" height="20" rx="10" fill="#B8F35A" opacity="0.83"/>
+<text x="1148" y="155" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" fill="#8A8F98">21.3%</text>
+<text x="32" y="187" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F7F8F8">TypeScript</text>
+<rect x="200" y="172" width="860" height="20" rx="10" fill="#1A1D20"/>
+<rect x="200" y="172" width="125" height="20" rx="10" fill="#39BDF8" opacity="0.71"/>
+<text x="1148" y="187" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" fill="#8A8F98">14.6%</text>
+<text x="32" y="219" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F7F8F8">HTML</text>
+<rect x="200" y="204" width="860" height="20" rx="10" fill="#1A1D20"/>
+<rect x="200" y="204" width="114" height="20" rx="10" fill="#39BDF8" opacity="0.59"/>
+<text x="1148" y="219" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" fill="#8A8F98">13.3%</text>
+<text x="32" y="251" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F7F8F8">Python</text>
+<rect x="200" y="236" width="860" height="20" rx="10" fill="#1A1D20"/>
+<rect x="200" y="236" width="41" height="20" rx="10" fill="#8A8F98" opacity="0.47"/>
+<text x="1148" y="251" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" fill="#8A8F98">4.7%</text>
+<text x="32" y="283" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#F7F8F8">CSS</text>
+<rect x="200" y="268" width="860" height="20" rx="10" fill="#1A1D20"/>
+<rect x="200" y="268" width="27" height="20" rx="10" fill="#8A8F98" opacity="0.35"/>
+<text x="1148" y="283" text-anchor="end" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" fill="#8A8F98">3.2%</text>
+</svg>
