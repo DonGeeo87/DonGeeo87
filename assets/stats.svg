@@ -4,7 +4,7 @@
 <rect x="0.5" y="0.5" width="1179" height="155" rx="15.5" stroke="#23272D"/>
 <rect x="16" y="16" width="283" height="124" rx="12" fill="#121417" stroke="#23272D"/>
 <rect x="16" y="16" width="4" height="124" rx="2" fill="#B8F35A" opacity="0.9"/>
-<text x="42" y="72" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" fill="#F7F8F8" letter-spacing="-1.5">2.659</text>
+<text x="42" y="72" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" fill="#F7F8F8" letter-spacing="-1.5">2.689</text>
 <text x="42" y="104" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="12" letter-spacing="2" fill="#8A8F98">CONTRIBUCIONES 12M</text>
 <rect x="315" y="16" width="283" height="124" rx="12" fill="#121417" stroke="#23272D"/>
 <rect x="315" y="16" width="4" height="124" rx="2" fill="#39BDF8" opacity="0.9"/>
