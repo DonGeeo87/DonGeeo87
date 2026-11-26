@@ -3,7 +3,7 @@
 <rect width="1180" height="250" rx="16" fill="#0B0C0E"/>
 <rect x="0.5" y="0.5" width="1179" height="249" rx="15.5" stroke="#23272D"/>
 <text x="24" y="32" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="13" letter-spacing="3" fill="#B8F35A">ACTIVIDAD 12 MESES</text>
-<text x="1156" y="32" text-anchor="end" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8A8F98">2.689 contribuciones</text>
+<text x="1156" y="32" text-anchor="end" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8A8F98">2.717 contribuciones</text>
 <text x="64" y="42" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#8A8F98">nov</text>
 <text x="104" y="42" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#8A8F98">dic</text>
 <text x="184" y="42" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#8A8F98">ene</text>
@@ -347,7 +347,7 @@
 <rect x="984" y="92" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-13: 42</title></rect>
 <rect x="984" y="112" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-14: 29</title></rect>
 <rect x="984" y="132" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-10-15: 15</title></rect>
-<rect x="984" y="152" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-16: 35</title></rect>
+<rect x="984" y="152" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-16: 37</title></rect>
 <rect x="984" y="172" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-17: 23</title></rect>
 <rect x="1004" y="52" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-18: 25</title></rect>
 <rect x="1004" y="72" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-19: 27</title></rect>
@@ -356,7 +356,7 @@
 <rect x="1004" y="132" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-10-22: 13</title></rect>
 <rect x="1004" y="152" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-10-23: 14</title></rect>
 <rect x="1004" y="172" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-10-24: 5</title></rect>
-<rect x="1024" y="52" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-10-25: 2</title></rect>
+<rect x="1024" y="52" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-10-25: 3</title></rect>
 <rect x="1024" y="72" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-26: 43</title></rect>
 <rect x="1024" y="92" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-10-27: 25</title></rect>
 <rect x="1024" y="112" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-10-28: 6</title></rect>
@@ -387,7 +387,8 @@
 <rect x="1104" y="52" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-11-22: 3</title></rect>
 <rect x="1104" y="72" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-11-23: 2</title></rect>
 <rect x="1104" y="92" width="15" height="15" rx="3" fill="#1A1D20"><title>2026-11-24: 0</title></rect>
-<rect x="1104" y="112" width="15" height="15" rx="3" fill="#1A1D20"><title>2026-11-25: 0</title></rect>
+<rect x="1104" y="112" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.45"><title>2026-11-25: 20</title></rect>
+<rect x="1104" y="132" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"><title>2026-11-26: 5</title></rect>
 <text x="64" y="221" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#8A8F98">menos</text>
 <rect x="110" y="210" width="15" height="15" rx="3" fill="#1A1D20"/>
 <rect x="129" y="210" width="15" height="15" rx="3" fill="#B8F35A" opacity="0.25"/>
